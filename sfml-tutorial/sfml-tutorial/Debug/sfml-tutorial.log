@@ -1,0 +1,5 @@
+﻿  GameManager.cpp
+c:\users\yohan\source\repos\sfml-tutorial\sfml-tutorial\gamemanager.cpp(372): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  main.cpp
+  コードを生成中...
+  sfml-tutorial.vcxproj -> C:\Users\yohan\source\repos\sfml-tutorial\Debug\sfml-tutorial.exe
